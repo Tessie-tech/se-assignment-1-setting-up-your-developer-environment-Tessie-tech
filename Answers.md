@@ -57,6 +57,7 @@ Step-by-Step Setup
 2. Extensions installed are: isort, Gitlens, anaconda, black formatter and code runner.
 
 
+
 3. Install Git
 
 1. Download and Install: I downloaded the latest version of Git from the official website and installed it on my laptop.
